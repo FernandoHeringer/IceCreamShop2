@@ -8,7 +8,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author ferna
+ * @author Fernando Heringer
  */
 public class IceCreamShop2 {
 
