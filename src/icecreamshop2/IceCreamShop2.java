@@ -17,7 +17,9 @@ public class IceCreamShop2 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        Scanner myS = new Scanner (System.in);
+        
+        IOUtils myS = new IOUtils();
+      
        
         while(true){
         System.out.println("Ice-cream menu \n 1. Raspberry \n 2. Chocolate \n 3. Vanilla \n 4. Leave Shop");
